@@ -1,0 +1,21 @@
+.repo-item{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px;
+    width: 250px;
+    height: 150px;
+}
+
+.repos-item{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.repos-displayer{
+    margin: auto;
+    display: flex;
+    border: 2px solid white;
+    padding: 12px;
+    width: 90%;
+    overflow-x: scroll;
+}

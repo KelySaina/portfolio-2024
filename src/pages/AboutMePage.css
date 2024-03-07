@@ -1,0 +1,42 @@
+.about-content{
+    background: #1f2020;
+    height: 92vh;
+    color: #ffffff;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.image-slide{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.abouts{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.about-items{
+    width: 30%;
+}
+
+.abouts h1{
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.about-items li{
+    padding-bottom: 12px;
+}
+
+.contact-link{
+    color: white;
+}
+
+.about-items p{
+    font-size: 17px;
+}
